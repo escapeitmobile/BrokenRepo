@@ -1,3 +1,71 @@
+# Escape It Mobile Gaming Platform
+
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![GitHub issues open](https://img.shields.io/github/issues/yourusername/escape-it-mobile-gaming-platform.svg)
+![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/yourusername/escape-it-mobile-gaming-platform.svg)
+
+![Escape It Mobile Gaming Platform](https://yourimageurl.com/image.png)
+
+Escape It is a cutting-edge mobile gaming platform that offers immersive, GPS-based adventure games. Designed for thrill-seekers and adventure enthusiasts, Escape It transforms your surroundings into an interactive playground.
+
+## Table of Contents
+
+- [Features](#features)
+- [Demo](#demo)
+- [Quick Start](#quick-start)
+- [Documentation](#documentation)
+- [File Structure](#file-structure)
+- [Browser Support](#browser-support)
+- [Resources](#resources)
+- [Reporting Issues](#reporting-issues)
+- [Technical Support or Questions](#technical-support-or-questions)
+- [Licensing](#licensing)
+- [Useful Links](#useful-links)
+
+## Features
+
+- **Immersive Gameplay**: Engage in real-world adventures using GPS technology.
+- **Multiple Game Modes**: Choose from various game types including scavenger hunts, treasure hunts, and thematic escapes.
+- **Interactive Maps**: Navigate through interactive maps to find clues and solve puzzles.
+- **Customizable Experiences**: Create and share your own adventures.
+- **Social Integration**: Connect with friends and compete on leaderboards.
+
+## Demo
+
+Experience the Escape It Mobile Gaming Platform in action [here](https://yourdemo.url).
+
+## Quick Start
+
+To get started with Escape It, follow these steps:
+
+1. **Clone the repo**:
+    ```bash
+    git clone https://github.com/yourusername/escape-it-mobile-gaming-platform.git
+    ```
+
+2. **Navigate to the project directory**:
+    ```bash
+    cd escape-it-mobile-gaming-platform
+    ```
+
+3. **Install dependencies**:
+    ```bash
+    npm install
+    ```
+
+4. **Start the development server**:
+    ```bash
+    npm start
+    ```
+
+## Documentation
+
+Comprehensive documentation for the Escape It Mobile Gaming Platform is available [here](https://yourdocumentation.url).
+
+## File Structure
+
+The project directory is structured as follows:
+
 # [Muse Ant Design Dashboard PRO](https://demos.creative-tim.com/muse-ant-design-dashboard-pro/#/dashboard?ref=readme-maddp)
 
 ![version](https://img.shields.io/badge/version-1.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-muse-ant-design-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-muse-ant-design-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-muse-ant-design-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-muse-ant-design-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed)
